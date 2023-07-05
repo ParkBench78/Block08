@@ -1,0 +1,14 @@
+body {
+  background-color:rgb(147, 201, 228)
+}
+header {
+  text-decoration: underline;
+  text-align: center; 
+  font-family: 'Open Sans', cursive;
+}
+main {
+  font-family: 'Open Sans', sans-serif;
+}
+h2 {
+  text-decoration: underline;
+}

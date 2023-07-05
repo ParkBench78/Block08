@@ -1,0 +1,16 @@
+body{
+    background-color: hsl(0, 57%, 47%);
+    
+}
+h1 {
+    text-decoration: underline;
+    text-align: center; 
+    color: rgb(166, 191, 42);
+    font-family: 'Open Sans', cursive;
+    
+ }
+ p{
+    text-align: center; 
+    color:rgb(89, 42, 191);
+    font-family: cursive;
+ }
